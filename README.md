@@ -1,8 +1,7 @@
 # Periphora - E-commerce UI Project 🎧🖱️⌨️
 
-**Student Name:** Jake Kevin Klair L. Cuenca
-
-**Student ID:** 2023-2110305
+**Student Name:** Jaron Brant G. Alicaway  
+**Student ID:** 2020-2296889
 
 ---
 
